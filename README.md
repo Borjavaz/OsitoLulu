@@ -12,3 +12,8 @@ git commit -m "A"
 git add .\README.md
 git commit -m "B"
 ```
+```bash
+# hacer otro commit
+git add .\README.md
+git commit -m "C"
+```
