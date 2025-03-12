@@ -2,6 +2,8 @@
 
 ## Osito Lulu
 
+## Commits del colab
+
 ```bash
 # hacer un commit desde la rama colab
 git add .\README.md
@@ -17,6 +19,8 @@ git commit -m "2"
 git add .\README.md
 git commit -m "3"
 ```
+
+## Commits del lider
 
 ```bash
 # hacer un commit desde la rama lider
