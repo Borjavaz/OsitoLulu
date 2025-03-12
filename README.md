@@ -7,3 +7,8 @@
 git add .\README.md
 git commit -m "A"
 ```
+```bash
+# hacer otro commit desde la rama lider
+git add .\README.md
+git commit -m "B"
+```
